@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INVENTORY SYSTEM
 
 This is an inventory management system built using Django
@@ -25,3 +26,6 @@ $ python3 manage.py createsuperuser
 $   python3 manage.py runserver
 ```
 Visit the site on your browser at [localhost:8000/](http://localhost:8000/)
+=======
+# inventory-management-system
+>>>>>>> bfd636387a824f07aaf84872c86e907c1b1568e0
